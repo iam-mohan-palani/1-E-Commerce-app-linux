@@ -89,7 +89,7 @@ sudo sed -i 's/index.html/index.php/g' /etc/httpd/conf/httpd.conf
 3. Start httpd
 
 ```
-sudo service httpd start
+sudo systemctl start httpd
 sudo systemctl enable httpd
 ```
 
