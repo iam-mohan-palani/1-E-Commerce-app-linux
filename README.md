@@ -58,7 +58,7 @@ INSERT INTO products (Name,Price,ImageUrl) VALUES ("Laptop","100","c-1.png"),("D
 EOF
 ```
 
-Run sql script
+Run sql script (Break from SQL)
 
 ```
 
